@@ -14,8 +14,6 @@
         </div>
 </div>
 
-<hr>
-
 <div align=center>
 
 ## Built with

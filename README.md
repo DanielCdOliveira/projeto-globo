@@ -10,7 +10,7 @@
             <h4>First web project</h4>
             <h4>Layout of a simplified version of the Globo.com home</h4>
             <h4>Made with HTML and CSS</h4>
-            <a href='https://marcojr73.github.io/projeto-globo-com/'>Deploy at GitHub Pages</>
+            <a href='https://danielcdoliveira.github.io/projeto-globo/'>Deploy at GitHub Pages</>
         </div>
 </div>
 
